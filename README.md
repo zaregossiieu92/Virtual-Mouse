@@ -1,4 +1,4 @@
-# AirMouse
+# Virtual Mouse: AirMouse
 
 AirMouse is a local-first desktop MVP that turns a laptop webcam into a hand-gesture mouse controller. It tracks one hand with MediaPipe, maps the index fingertip to the full screen, smooths cursor motion, and converts pinch gestures into mouse actions.
 
